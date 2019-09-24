@@ -6,12 +6,3 @@ sequenceDiagram
   C->> B: Response
   B->> A: Forward response
 ```
-```mermaid
-sequenceDiagram
-    Alice->> John: Hello John, how are you?
-    John->> John: Fight against hypochondria
-    Note right of John: Rational thoughts <br/>prevail!
-    John-->>Alice: Great!
-    John->> Bob: How about you?
-    Bob-->> John: Jolly good!
-```
